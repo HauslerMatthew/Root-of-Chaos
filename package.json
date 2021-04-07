@@ -1,0 +1,30 @@
+{
+  "name": "roc",
+  "version": "1.0.0",
+  "description": "Root of Chaos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/max-content/roc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/max-content/roc/issues"
+  },
+  "homepage": "https://github.com/max-content/roc#readme",
+  "dependencies": {
+    "@emotion/css": "^11.1.3",
+    "@emotion/react": "^11.1.5",
+    "@emotion/styled": "^11.1.5",
+    "@reach/router": "^1.3.4",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "react-native-base64": "^0.2.1"
+  }
+}
